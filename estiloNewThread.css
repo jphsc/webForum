@@ -1,0 +1,27 @@
+body{
+	font-family: cursive;
+	font-weight: bold;
+	width: 90%;
+	padding: 40px 40px 40px 40px;
+	border-color: grey;
+	border-width: 2px;
+	border-style: solid;
+
+}
+
+a{
+	text-decoration: none;
+	
+}
+
+.button{
+	width: 600px;
+	padding-left: 160px;
+	font-family: cursive;
+
+}
+
+.textArea{
+	width: 400px;
+	height: 400px;
+}
